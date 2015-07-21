@@ -1,0 +1,19 @@
+{
+    "name": "d-gubert/slim-jade-view",
+    "description": "A view extension of the Slim Framework to be used with the Jade templating language",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["jade", "templating", "extensions", "slimphp"],
+    "authors": [
+        {
+            "name": "Douglas Gubert",
+            "email": "douglas.gubert@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": ">=2.4.0",
+        "php": ">=5.3.0",
+        "kylekatarnls/jade-php": ">=1.3"
+    }
+}
